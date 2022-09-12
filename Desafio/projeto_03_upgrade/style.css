@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main h1 {
+    text-align: center;
+    margin: 20px ;
+}
+main section {
+    background-color: aqua;
+    font-size: 1.2em;
+    margin: 10px auto;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.31);
+    border-radius: 10px;
+    width: 500px;
+}
+main section input, label {
+    margin: 10px;
+}
+button {
+    font-weight: bold;
+    padding: 5px;
+    margin: 10px;
+}
+
+
+div#res {
+    padding: 20px;
+}

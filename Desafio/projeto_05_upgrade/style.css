@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+}
+
+header {
+    margin: 30px;
+}
+
+main {
+    background-color: aqua;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.355);
+    width: 300px;
+}
+main input {
+    margin: 5px;
+}
+main button {
+    font-weight: bold;
+    margin: 5px;
+    padding: 3px 10px;
+}
+main div#res {
+    font: bold 1em normal Arial, sans-serif;
+    text-align: left;
+}
+
+footer {
+    margin: 10px;
+}
+footer p {
+    text-align: center;
+    font-size: 1.1em;
+}
+footer span {
+    font-weight: 400;
+    font-style: italic;
+}

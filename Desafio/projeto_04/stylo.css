@@ -1,0 +1,33 @@
+body {
+    background-color: blue;
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    width: 400px;
+    background-color: #fff;
+    margin: auto;
+    text-align: center;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.224);
+}
+
+footer {
+    text-align: center;
+}
+
+input {
+    width: 110px;
+}
+button {
+    margin: 10px;
+}
+#seltab {
+    overflow: hidden;
+    padding: 5px;
+    border-radius: 10px;
+}

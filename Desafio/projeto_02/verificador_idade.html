@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verificando Idade</title>
+    <link rel="stylesheet" href="style_01.css">
+</head>
+<body>
+    <header>
+        <h1>Verificando Idade</h1>
+    </header>
+
+    <section>
+        <div id="corpo-1">  <!--DIV-1-->
+            <!--===========================DATA DE NACIMENTO==================================-->
+            <h2>Indentificando</h2>
+            <strong>Data de Nacimento:</strong> <input type="number" name="txt1" id="txt1"> <br>
+
+            <!--===========================CHECKED SEXO [F/M]=================================-->
+            <strong>Sexo:</strong>
+
+            <input type="radio" class="check" name="check" id="femenino" checked>
+            <label for="femenino">Femenino</label>
+
+            <input type="radio" class="check" name="check" id="masculino">
+            <label for="masculino">Masculino</label><br><br>
+
+            <!--===========================BUTÃO DE CONFIRMAR===============================-->
+            <strong>Preencha Os dados aacima pra exibir o resultado</strong><br><br>
+            <input id="butao" type="button" value="Confirmar..." onclick="clicar()">
+        </div>
+        <div id="corpo-2"></div> <!--DIV-2-->
+    </section>
+
+    <footer>
+        <p><strong>&copy;Ramon Rodrigues</strong></p>
+    </footer>
+
+    <script src="java_script.js"></script>
+</body>
+</html>

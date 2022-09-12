@@ -1,0 +1,26 @@
+#txt1 {
+    width: 110px;
+}
+#butao {
+    font: normal 13pt Arial;
+}
+body {
+    background-image: linear-gradient(to right, #84f3f3d4, #03e6e6);
+    text-align: center;
+}
+
+header {
+    text-shadow: 2px 2px 4px #0000007c;
+}
+
+section {
+    background-color: white;
+    width: 400px;
+    height: auto;
+    border-radius: 10px;
+    margin: auto;
+    box-shadow: 5px 5px 10px #00000068;
+}
+#corpo-2 {
+    padding: 10px;
+}

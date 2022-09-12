@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+#corpo-1 {
+    background-color: aqua;
+    width: 440px;
+    height: 400px;
+    margin: auto;
+    padding: 8px;
+    box-shadow: 5px 5px 10px #00000073;
+    border-radius: 12px;
+}
+
+footer {
+    padding: 20px;
+}

@@ -1,0 +1,24 @@
+* {
+    margin: 5px;
+}
+header {
+    text-align: center;
+}
+section {
+    background-color: aqua;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    padding: 3px;
+}
+button {
+    margin: 6px;
+}
+footer {
+    text-align: center;
+    margin: 4px;
+}
+
+#res {
+    text-align: left;
+}

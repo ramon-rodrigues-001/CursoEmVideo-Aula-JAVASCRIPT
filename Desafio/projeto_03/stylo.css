@@ -1,0 +1,27 @@
+
+body {
+    background-color: blue;
+}
+header {
+    text-align: center;
+}
+section {
+    text-align: center;
+    margin: auto;
+    background-color: white;
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.32);
+    padding: 3px;
+}
+footer {
+    text-align: center;
+}
+input {
+    width: 120px;
+    margin: 5px;
+}
+button {
+    margin: 5px;
+}
+ 

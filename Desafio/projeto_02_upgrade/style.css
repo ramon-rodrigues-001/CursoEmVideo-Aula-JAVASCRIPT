@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 1.2em;
+    text-align: center;
+    margin: 20px;
+}
+fieldset#fiel-01 {
+    width: 700px;
+    margin: auto;
+}
+
+h1 {
+    margin: 10px;
+}
+
+main {
+    background-color: aqua;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.347);
+    padding: 20px;
+    width: 400px;
+}
+input#data {
+    text-align: center;
+    margin-bottom: 15px;
+}
+main button {
+    font-size: 1.1em;
+    font-weight: bold;
+    margin: 10px;
+    padding: 5px 20px;
+}
+main img {
+    display: block;
+    margin: 10px auto;
+}
+
+footer strong {
+    font-size: .9em;
+    font-weight: normal;
+}
